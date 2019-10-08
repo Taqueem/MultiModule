@@ -5,6 +5,9 @@
   <groupId>BaseTestGroup</groupId>
   <artifactId>BaseProject</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <modules>
+    <module>ModuleProjectB</module>
+  </modules>
   <packaging>pom</packaging>
 
   <name>BaseProject</name>
